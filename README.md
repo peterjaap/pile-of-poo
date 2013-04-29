@@ -9,3 +9,6 @@ you can use &poo; from now on!
 See example.html for an example. It's awesome, and what you've been waiting for these past years.
 
 &#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;&#128169;
+
+## But how does it work?
+It's shitty magic. You know, the kind that drunk clown at your children birthday parties did.
